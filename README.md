@@ -1,2 +1,2 @@
-# Class-20-Project
-This is a crash simulator. Red means the car is unsuitable. Yellow means that it is average. Green means the car is good.
+# p5.play-boilerplate
+Boiler plate for p5.play
